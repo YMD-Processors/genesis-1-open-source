@@ -89,7 +89,7 @@ So:
 
 ---
 
-# Case 3 — Instruction = 4 bytes (like your CPU)
+# Case 3 — Instruction = 4 bytes (Genesis One)
 
 ```text
 Instruction size = 4 bytes
