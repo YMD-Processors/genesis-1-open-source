@@ -14,6 +14,13 @@ Please support this project by leaving a star on the repo.
 
 ---
 
+## Project Doc Navigation
+NOTE: Always start with the Quick_Start.md in every folder. Also each folder repesent a component of the Genesis CPU.
+
+  - Program Counter (pc)
+
+---
+
 ## System Architecture Diagram
 <img width="1117" height="687" alt="image" src="https://github.com/user-attachments/assets/b1ca4aed-0c50-4157-8f73-68eebddd0080" />
 
