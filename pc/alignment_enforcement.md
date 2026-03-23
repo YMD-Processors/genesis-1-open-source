@@ -85,17 +85,6 @@ Alignment is enforced on **ALL external control-flow inputs**:
 | Exception  | `vector_addr`   | ✔                 |
 | Prediction | `predicted_pc`  | ✔                 |
 
-### From your module:
-
-```verilog
-wire [XLEN-1:0] aligned_reset_vector = {reset_vector[XLEN-1:2], 2'b00};
-wire [XLEN-1:0] aligned_predicted_pc = {predicted_pc[XLEN-1:2], 2'b00};
-wire [XLEN-1:0] aligned_branch       = {branch_target[XLEN-1:2], 2'b00};
-wire [XLEN-1:0] aligned_flush        = {flush_target[XLEN-1:2], 2'b00};
-wire [XLEN-1:0] aligned_vector_addr  = {vector_addr[XLEN-1:2], 2'b00};
-wire [XLEN-1:0] aligned_jump         = {jump_addr[XLEN-1:2], 2'b00};
-```
-
 ---
 
 ## **6. Placement in Pipeline**
