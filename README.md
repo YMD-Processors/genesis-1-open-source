@@ -17,7 +17,7 @@ Please support this project by leaving a star on the repo.
 ## Project Doc Navigation
 NOTE: Always start with the Quick_Start.md in every folder. Also each folder repesent a component of the Genesis CPU.
 
-  - Program Counter (pc)
+  - Program Counter (pc): https://github.com/YMD-Processors/genesis-1-open-source/tree/main/pc
 
 ---
 
