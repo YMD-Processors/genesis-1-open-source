@@ -1,7 +1,7 @@
 # Genesis-1 Open Source CPU
 
-Genesis-1 is an **experimental open-source CPU architecture** designed for education, research, and hardware experimentation.
-The goal of this project is to build a **complete computing stack** — from CPU microarchitecture to operating system — fully open and understandable.
+Genesis-1 is an **research open-source CPU architecture** designed for education, research, and hardware implementation.
+The goal of this project is to build a **complete computing stack** — from CPU architecture to operating system.
 
 Genesis-1 is designed to run on **FPGA hardware** and eventually evolve into a **custom silicon implementation**.
 
