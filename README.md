@@ -21,6 +21,15 @@ NOTE: Always start with the Quick_Start.md in every folder. Also each folder rep
 
 ---
 
+
+## Contributors
+
+<a href="https://github.com/YMD-Processors/genesis-1-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YMD-Processors/genesis-1-open-source" />
+</a>
+
+---
+
 ## System Architecture Diagram
 <img width="1117" height="687" alt="image" src="https://github.com/user-attachments/assets/b1ca4aed-0c50-4157-8f73-68eebddd0080" />
 
@@ -28,4 +37,6 @@ NOTE: Always start with the Quick_Start.md in every folder. Also each folder rep
 
 ## END goal
 <img width="1024" height="1024" alt="AB49D51C-0537-4417-A53E-975891A9CC5A" src="https://github.com/user-attachments/assets/7491c120-4448-43d1-94ab-a567ce7880e6" />
+
+
 
