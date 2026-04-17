@@ -22,19 +22,12 @@ NOTE: Always start with the Quick_Start.md in every folder. Also each folder rep
 ---
 
 
-## Contributors
+## 🤝 Supporters & Contributors
 
-<a href="https://github.com/YMD-Processors/genesis-1-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YMD-Processors/genesis-1-open-source" />
-</a>
-
----
-
-### Highlighted Contributor
+We appreciate everyone supporting the Genesis-1 project.
 
 - [@timtjoe](https://github.com/timtjoe)
-- 
-
+  
 ---
 
 ## System Architecture Diagram
