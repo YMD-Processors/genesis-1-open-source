@@ -27,6 +27,7 @@ NOTE: Always start with the Quick_Start.md in every folder. Also each folder rep
 We appreciate everyone supporting the Genesis-1 project.
 
 - [@timtjoe](https://github.com/timtjoe)
+- [@psrockstar098](https://github.com/psrockstar098)
   
 ---
 
